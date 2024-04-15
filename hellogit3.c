@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello Git 3 v login!\n");
+
+    printf("Hello Git v3!\n");
+
     return 0;
 }
