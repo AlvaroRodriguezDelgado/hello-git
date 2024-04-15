@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello Git 3 cambiado!\n");
+    printf("Hello Git v3!\n");
     return 0;
 }
